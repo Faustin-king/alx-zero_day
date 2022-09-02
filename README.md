@@ -1,2 +1,1 @@
-#My first readme
-update readme file.
+This is my first readme in alx program.
